@@ -92,7 +92,10 @@ Notes:
 ## Questions
 
 ### Q1
-Find 3 users who are closest to you in terms of age, gender, and occupation.  
+Find 3 users who are closest to you in terms of age, gender, and occupation. 
+
+The code for question 1 is [q1.ipynb](./q1.ipynb)
+
 I only found 2 users that are closest to me they are 102 and 319
 
 For each of those 3 users:
@@ -110,11 +113,13 @@ For each of those 3 users:
 
 Based on the movie values in those 6 tables (3 users X (favorite + least favorite)), choose a user that you feel is most like you.  Feel free to note any outliers (e.g., "I mostly identify with user 123, except I did not like "Ghost" at all").  You can investigate more than just the top 3 and bottom 3 movies to find your best match.
 
-I choose user 319 because they seem to like Science Fiction movies, and I also like Sci-Fi movies. They rated movies that i dont really care for as much with lower ratings.
-This user is the *substitute you*.  
+I choose user 319 because they seem to like Science Fiction movies, and I also like Sci-Fi movies. They rated movies that I don't really care for as much with lower ratings.
+This user is the *substitute me*.  
 
 ### Q2
 Which 5 users are most correlated to the *substitute you*? Which 5 users are least correlated (i.e., negative correlation)?
+
+The code for question 2 to 4 is [q2-q4.ipynb](./q2-q4.ipynb)
 
 #### 5 most correlated
 ![5 most correlated](./q2a.png)
