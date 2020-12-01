@@ -97,10 +97,12 @@ I only found 2 users that are closest to me they are 102 and 319
 
 For each of those 3 users:
 * what are their top 3 (favorite) films?
+
 102 - Titanic (1997), The Peacemaker (1997), and The Terminator, (1984).
 319 - Soul Food (1997), The Devil's Advocate (1997), and The game (1997).
 
 * what are their bottom 3 (least favorite) films?
+
 102 - Alien 3 (1992), Batman Forever (1995), and Star Trek V: The Final Frontier (1989).
 319 - Bean (1997), George of the Jungle (1997), and Fallen (1998).
 
@@ -111,20 +113,33 @@ This user is the *substitute you*.
 
 ### Q2
 Which 5 users are most correlated to the *substitute you*? Which 5 users are least correlated (i.e., negative correlation)?
-![5 most correlated](./q2.png)
+
+#### 5 most correlated
+![5 most correlated](./q2a.png)
+
+#### 5 least correlated
+![5 most correlated](./q2b.png)
 
 ### Q3
 Compute ratings for all the films that the *substitute you* has not seen.  
 
 Provide a list of the top 5 recommendations for films that the *substitute you* should see.  
+
+#### top 5 recommendations
 ![top 5 recommendations](./q3a.png)
+
 Provide a list of the bottom 5 recommendations (i.e., films the *substitute you* is almost certain to hate).
-![top 5 recommendations](./q3b.png)
+
+#### bottom 5 recommendations 
+![bottom 5 recommendations](./q3b.png)
 
 ### Q4
 Choose your (the real you, not the *substitute you*) favorite and least favorite film from the data.  For each film, generate a list of the top 5 most correlated and bottom 5 least correlated films. 
+
+#### top 5 most correlated
 ![top 5 most correlated ](./q4a.png)
 
+#### bottom 5 least correlated
 ![bottom 5 least correlated ](./q4b.png)
 
 Based on your knowledge of the resulting films, do you agree with the results?  In other words, do you personally like / dislike the resulting films?  
