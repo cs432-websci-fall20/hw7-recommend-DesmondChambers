@@ -93,30 +93,44 @@ Notes:
 
 ### Q1
 Find 3 users who are closest to you in terms of age, gender, and occupation.  
+I only found 2 users that are closest to me they are 102 and 319
 
 For each of those 3 users:
 * what are their top 3 (favorite) films?
+102 - Titanic (1997), The Peacemaker (1997), and The Terminator, (1984).
+319 - Soul Food (1997), The Devil's Advocate (1997), and The game (1997).
+
 * what are their bottom 3 (least favorite) films?
+102 - Alien 3 (1992), Batman Forever (1995), and Star Trek V: The Final Frontier (1989).
+319 - Bean (1997), George of the Jungle (1997), and Fallen (1998).
 
 Based on the movie values in those 6 tables (3 users X (favorite + least favorite)), choose a user that you feel is most like you.  Feel free to note any outliers (e.g., "I mostly identify with user 123, except I did not like "Ghost" at all").  You can investigate more than just the top 3 and bottom 3 movies to find your best match.
 
+I choose user 319 because they seem to like Science Fiction movies, and I also like Sci-Fi movies. They rated movies that i dont really care for as much with lower ratings.
 This user is the *substitute you*.  
 
 ### Q2
 Which 5 users are most correlated to the *substitute you*? Which 5 users are least correlated (i.e., negative correlation)?
+![5 most correlated](./q2.png)
 
 ### Q3
 Compute ratings for all the films that the *substitute you* has not seen.  
 
 Provide a list of the top 5 recommendations for films that the *substitute you* should see.  
-
+![top 5 recommendations](./q3a.png)
 Provide a list of the bottom 5 recommendations (i.e., films the *substitute you* is almost certain to hate).
+![top 5 recommendations](./q3b.png)
 
 ### Q4
 Choose your (the real you, not the *substitute you*) favorite and least favorite film from the data.  For each film, generate a list of the top 5 most correlated and bottom 5 least correlated films. 
+![top 5 most correlated ](./q4a.png)
+
+![bottom 5 least correlated ](./q4b.png)
 
 Based on your knowledge of the resulting films, do you agree with the results?  In other words, do you personally like / dislike the resulting films?  
-* If you have not heard of the recommended movies, search for the movie's trailer on YouTube and watch it before you answer.  If you do this, include the link to the trailer in your report.  For example, the [trailer for "Top Gun (1986)"](https://www.youtube.com/watch?v=xa_z57UatDY) was found by searching for "top gun 1986 trailer" on Google.   
+* If you have not heard of the recommended movies, search for the movie's trailer on YouTube and watch it before you answer.  If you do this, include the link to the trailer in your report.  For example, the [trailer for "Top Gun (1986)"](https://www.youtube.com/watch?v=xa_z57UatDY) was found by searching for "top gun 1986 trailer" on Google. 
+
+Based on the resulting fimls I do agree with the results. I had to look uo some of the movies since i haven't seen them but I agree with the result. The recommender system seem to depend highly on genre. I do not really care for westerns and I like SciFi movies, the results seem to be in line with this. 
 
 ## Extra Credit
 
