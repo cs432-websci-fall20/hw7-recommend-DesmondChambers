@@ -99,11 +99,13 @@ For each of those 3 users:
 * what are their top 3 (favorite) films?
 
 102 - Titanic (1997), The Peacemaker (1997), and The Terminator, (1984).
+
 319 - Soul Food (1997), The Devil's Advocate (1997), and The game (1997).
 
 * what are their bottom 3 (least favorite) films?
 
 102 - Alien 3 (1992), Batman Forever (1995), and Star Trek V: The Final Frontier (1989).
+
 319 - Bean (1997), George of the Jungle (1997), and Fallen (1998).
 
 Based on the movie values in those 6 tables (3 users X (favorite + least favorite)), choose a user that you feel is most like you.  Feel free to note any outliers (e.g., "I mostly identify with user 123, except I did not like "Ghost" at all").  You can investigate more than just the top 3 and bottom 3 movies to find your best match.
