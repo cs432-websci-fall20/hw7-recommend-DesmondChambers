@@ -1,0 +1,935 @@
+Beauty and the Beast (1991) 5.1
+Cinderella (1950) 6.5
+20,000 Leagues Under the Sea (1954) 5.9
+Othello (1995) 4.2
+Hamlet (1996) 3.2
+Richard III (1995) 7.0
+Faithful (1996) 5.7
+Black Sheep (1996) 6.1
+Twilight (1998) 7.4
+Jane Eyre (1996) 7.6
+Alice in Wonderland (1951) 6.2
+Anna Karenina (1997) 4.8
+Madame Butterfly (1995) 5.4
+Solo (1996) 7.1
+Bad Boys (1995) 5.3
+Bliss (1997) 5.3
+Fear (1996) 6.1
+Great Expectations (1998) 6.1
+Speed (1994) 7.9
+Kids (1995) 4.2
+Little Women (1994) 6.5
+Mixed Nuts (1994) 4.2
+Bringing Up Baby (1938) 5.8
+Around the World in 80 Days (1956) 6.6
+Pollyanna (1960) 6.4
+Black Beauty (1994) 5.9
+Little Lord Fauntleroy (1936) 6.7
+Mad Love (1995) 6.7
+Barb Wire (1996) 5.0
+Manhattan (1979) 6.8
+Michael (1996) 7.1
+Braveheart (1995) 7.0
+Ben-Hur (1959) 7.8
+Faust (1994) 8.1
+Volcano (1997) 7.0
+Duck Soup (1933) 6.6
+Underworld (1997) 7.5
+The Innocent (1994) 6.1
+Excess Baggage (1997) 7.7
+Ransom (1996) 5.9
+Party Girl (1995) 5.3
+Caught (1996) 6.5
+M (1931) 8.3
+Emma (1996) 7.0
+Funny Face (1957) 6.4
+Love Affair (1994) 5.8
+Bird of Prey (1996) 6.3
+Bed of Roses (1996) 6.4
+City Hall (1996) 5.7
+It Happened One Night (1934) 8.1
+Men in Black (1997) 7.9
+Of Human Bondage (1934) 7.1
+Full Speed (1996) 6.2
+Enchanted April (1991) 5.8
+Here Comes Cookie (1935) 6.4
+Reckless (1995) 6.4
+One Night Stand (1997) 6.5
+Top Hat (1935) 7.7
+Death and the Maiden (1994) 7.1
+My Man Godfrey (1936) 8.0
+Anna (1996) 6.8
+Hideaway (1995) 5.4
+It Could Happen to You (1994) 6.3
+Lost Horizon (1937) 7.7
+Snow White and the Seven Dwarfs (1937) 7.6
+Larger Than Life (1996) 5.8
+Gaslight (1944) 7.3
+Gone with the Wind (1939) 8.1
+Mr. Smith Goes to Washington (1939) 8.1
+Ninotchka (1939) 7.9
+Some Like It Hot (1959) 6.7
+They Made Me a Criminal (1939) 6.9
+Fantasia (1940) 7.7
+Foreign Correspondent (1940) 7.5
+His Girl Friday (1940) 7.9
+Pinocchio (1940) 7.4
+Rebecca (1940) 8.1
+Swiss Family Robinson (1960) 6.5
+Citizen Kane (1941) 8.3
+Dumbo (1941) 7.2
+Meet John Doe (1941) 7.6
+Penny Serenade (1941) 7.1
+Underground (1995) 7.2
+Casablanca (1942) 8.5
+Cat People (1982) 7.3
+To Be or Not to Be (1942) 8.2
+Batman (1989) 6.4
+For Whom the Bell Tolls (1943) 6.9
+No Escape (1994) 5.1
+Lady of Burlesque (1943) 6.3
+Titanic (1997) 6.2
+Alaska (1996) 5.3
+Arsenic and Old Lace (1944) 8.0
+Brazil (1985) 6.7
+Henry V (1989) 7.1
+Laura (1944) 8.0
+Meet Me in St. Louis (1944) 7.6
+Murder, My Sweet (1944) 7.6
+Spellbound (1945) 7.6
+Wolf (1994) 7.5
+Angel on My Shoulder (1946) 6.8
+It's a Wonderful Life (1946) 8.6
+Notorious (1946) 7.9
+Angel and the Badman (1947) 6.9
+Calendar Girl (1993) 6.0
+Crossfire (1947) 7.3
+Golden Earrings (1947) 6.7
+Kiss of Death (1995) 7.4
+Miracle on 34th Street (1994) 7.9
+T-Men (1947) 7.0
+He Walked by Night (1948) 7.2
+I Love Trouble (1994) 6.9
+Raw Deal (1948) 7.2
+High Noon (1952) 6.9
+Indian Summer (1996) 6.7
+So Dear to My Heart (1949) 6.8
+All About Eve (1950) 8.2
+Broken Arrow (1996) 7.2
+Cyrano de Bergerac (1990) 7.5
+Dark City (1998) 6.7
+Sudden Death (1995) 5.4
+Father of the Bride (1950) 7.2
+Kim (1950) 6.6
+Outbreak (1995) 7.3
+Sunset Blvd. (1950) 8.4
+Angels in the Outfield (1994) 7.1
+G.I. Jane (1997) 6.8
+Lone Star (1996) 6.1
+Breakdown (1997) 5.9
+Carrie (1976) 7.3
+Fargo (1996) 7.0
+Singin' in the Rain (1952) 8.3
+Target (1995) 6.1
+Charade (1963) 6.5
+Two if by Sea (1996) 6.1
+Roman Holiday (1953) 8.0
+Beat the Devil (1954) 6.5
+Down Periscope (1996) 6.0
+Lassie (1994) 6.6
+Diabolique (1996) 8.0
+Dial M for Murder (1954) 8.2
+Baton Rouge (1988) 6.8
+Rear Window (1954) 8.4
+Sabrina (1954) 7.7
+East of Eden (1955) 7.9
+Foxfire (1996) 6.4
+Pather Panchali (1955) 8.6
+Picnic (1955) 7.1
+Rebel Without a Cause (1955) 7.7
+Beautiful Girls (1996) 4.9
+To Catch a Thief (1955) 7.4
+Top Gun (1986) 6.2
+Anastasia (1997) 7.0
+Aparajito (1956) 8.4
+Forbidden Planet (1956) 7.6
+Giant (1956) 7.6
+Maverick (1994) 6.3
+Leave It to Beaver (1997) 7.5
+12 Angry Men (1957) 9.0
+Hercules (1997) 5.4
+Fire Down Below (1997) 6.0
+Love in the Afternoon (1957) 7.2
+Old Yeller (1957) 7.3
+Paths of Glory (1957) 8.4
+Up in Smoke (1978) 6.1
+Cat on a Hot Tin Roof (1958) 8.0
+Terror in a Texas Town (1958) 6.8
+Touch of Evil (1958) 8.0
+Vertigo (1958) 8.3
+Girls Town (1996) 3.5
+North by Northwest (1959) 8.3
+Good Morning (1971) 7.9
+Street Fighter (1994) 3.6
+Purple Noon (1960) 7.8
+Psycho (1960) 8.5
+Angel Baby (1995) 6.2
+Breakfast at Tiffany's (1961) 7.6
+101 Dalmatians (1996) 7.3
+Roommates (1995) 5.9
+McHale's Navy (1997) 7.4
+Cape Fear (1962) 7.7
+Trial and Error (1997) 6.2
+Lawrence of Arabia (1962) 8.3
+To Kill a Mockingbird (1962) 8.2
+Flipper (1996) 6.1
+Mary Poppins (1964) 7.8
+My Fair Lady (1964) 7.8
+Alphaville (1965) 7.1
+Paradise Road (1997) 5.8
+Mirage (1995) 7.3
+That Darn Cat! (1965) 6.8
+Mission: Impossible (1996) 7.9
+Color of Night (1994) 5.4
+Pie in the Sky (1995) 5.9
+George of the Jungle (1997) 6.7
+Belle de jour (1967) 7.7
+Bonnie and Clyde (1967) 7.8
+Cool Hand Luke (1967) 8.1
+Bad Girls (1994) 7.1
+Faces (1968) 7.6
+Night of the Living Dead (1968) 7.9
+William Shakespeare's Romeo and Juliet (1996) 7.6
+Winnie the Pooh and the Blustery Day (1968) 8.0
+Butch Cassidy and the Sundance Kid (1969) 8.0
+Once Upon a Time in the West (1969) 8.5
+Heat (1995) 6.4
+M*A*S*H (1970) 7.4
+Patton (1970) 7.9
+Persuasion (1995) 6.5
+Bananas (1971) 7.0
+Bedknobs and Broomsticks (1971) 7.1
+Cold Comfort Farm (1995) 7.4
+Harold and Maude (1971) 7.9
+Walkabout (1971) 7.6
+Home for the Holidays (1995) 6.5
+Private Parts (1997) 6.6
+Hearts and Minds (1996) 6.1
+Supercop (1992) 7.7
+Sleeper (1973) 7.2
+Stranger in the House (1997) 7.2
+Chinatown (1974) 8.1
+Herbie Rides Again (1974) 5.7
+Monty Python and the Holy Grail (1974) 8.2
+Young Frankenstein (1974) 8.0
+Babe (1995) 7.5
+Escape to Witch Mountain (1975) 6.4
+Jaws (1975) 8.0
+One Flew Over the Cuckoo's Nest (1975) 8.7
+Switchblade Sisters (1975) 6.6
+City of Angels (1998) 7.8
+Burnt Offerings (1976) 6.5
+Boomerang (1992) 6.1
+Desperado (1995) 7.1
+Getting Away With Murder (1996) 6.0
+Taxi Driver (1976) 8.3
+Annie Hall (1977) 8.0
+Audrey Rose (1977) 5.8
+Shine (1996) 6.0
+Pete's Dragon (1977) 6.4
+Fearless (1993) 5.7
+Sneakers (1992) 4.9
+Crash (1996) 5.7
+Grease (1978) 7.2
+Jaws 2 (1978) 5.8
+Matilda (1996) 3.4
+Apocalypse Now (1979) 8.4
+Before and After (1996) 6.5
+Being There (1979) 8.0
+Chain Reaction (1996) 7.4
+French Kiss (1995) 6.8
+Monty Python's Life of Brian (1979) 8.1
+Stalker (1979) 8.2
+Star Trek: The Motion Picture (1979) 6.4
+Casino (1995) 5.7
+Under Siege (1992) 4.3
+Falling in Love Again (1980) 5.0
+Nothing Personal (1995) 4.7
+Private Benjamin (1980) 6.2
+Raging Bull (1980) 8.2
+Screamers (1995) 5.1
+Somewhere in Time (1980) 7.2
+Steel (1997) 6.0
+Blood Beach (1981) 4.5
+Conan the Barbarian (1981) 6.9
+Diva (1981) 7.1
+Escape from New York (1981) 7.2
+Fire on the Mountain (1996) 6.9
+Fly Away Home (1996) 5.5
+Heavy Metal (1981) 6.7
+On Golden Pond (1981) 7.6
+Raiders of the Lost Ark (1981) 8.4
+Stripes (1981) 6.9
+It Takes Two (1995) 6.8
+Amityville II: The Possession (1982) 5.6
+Blade Runner (1982) 8.1
+E.T. the Extra-Terrestrial (1982) 7.8
+Gandhi (1982) 8.0
+Grease 2 (1982) 4.4
+My Favorite Year (1982) 7.4
+Sophie's Choice (1982) 7.6
+Threesome (1994) 5.8
+Amityville 3-D (1983) 4.1
+Carpool (1996) 5.2
+Jaws 3-D (1983) 3.7
+Koyaanisqatsi (1983) 8.3
+Local Hero (1983) 7.3
+Return of the Jedi (1983) 8.3
+Bad Taste (1987) 5.2
+Scream (1996) 2.9
+SubUrbia (1997) 7.0
+Amadeus (1984) 8.3
+Once Upon a Time in America (1984) 8.4
+Paris, Texas (1984) 8.1
+Star Trek III: The Search for Spock (1984) 6.7
+This Is Spinal Tap (1984) 7.9
+Back to the Future (1985) 8.5
+Better Off Dead... (1985) 7.1
+Malice (1993) 5.9
+Ran (1985) 8.2
+Real Genius (1985) 7.0
+Sense and Sensibility (1995) 6.8
+Witness (1985) 7.4
+Aladdin (1992) 5.4
+April Fool's Day (1986) 6.2
+Down by Law (1986) 7.8
+Jean de Florette (1986) 8.0
+Platoon (1986) 8.1
+Stand by Me (1986) 8.1
+Star Trek IV: The Voyage Home (1986) 7.3
+Twisted (1996) 4.7
+Open Season (1996) 6.0
+Dead Man Walking (1995) 5.0
+Dirty Dancing (1987) 7.0
+Evil Dead II (1987) 7.8
+Wings of Desire (1987) 8.0
+Raising Arizona (1987) 7.3
+Some Kind of Wonderful (1987) 7.1
+Tin Men (1987) 6.6
+Withnail and I (1987) 7.7
+Bulletproof (1996) 5.1
+Die Hard (1988) 8.2
+Fair Game (1995) 4.8
+Freeway (1996) 5.0
+Wonderland (1997) 6.4
+Blown Away (1994) 4.7
+Cinema Paradiso (1988) 8.5
+Oliver & Company (1988) 6.7
+Tainted (1998) 5.4
+Twister (1996) 5.2
+Young Guns (1988) 6.9
+Dead Poets Society (1989) 8.1
+Field of Dreams (1989) 7.5
+Fathers' Day (1997) 4.6
+Heathers (1989) 7.2
+Indiana Jones and the Last Crusade (1989) 8.2
+Hard Rain (1998) 6.5
+My Left Foot (1989) 7.9
+Star Trek V: The Final Frontier (1989) 5.5
+To Die For (1995) 4.8
+Weekend at Bernie's (1989) 6.4
+When Harry Met Sally... (1989) 7.6
+Sex, Lies, and Videotape (1989) 7.2
+Normal Life (1996) 7.0
+Dances with Wolves (1990) 8.0
+Days of Thunder (1990) 6.1
+Die Hard 2 (1990) 7.2
+Ghost (1990) 7.1
+GoodFellas (1990) 8.7
+Home Alone (1990) 7.6
+King of New York (1990) 7.0
+Marked for Death (1990) 6.0
+Miller's Crossing (1990) 7.7
+Paris Is Burning (1990) 8.2
+Pretty Woman (1990) 7.0
+Pump Up the Volume (1990) 7.2
+Young Guns II (1990) 6.5
+Tie Me Up! Tie Me Down! (1990) 7.0
+Body Parts (1991) 5.6
+Curdled (1996) 7.0
+Raise the Red Lantern (1991) 8.1
+Death in Brunswick (1991) 6.6
+Delicatessen (1991) 7.6
+Desperate Measures (1998) 6.4
+Dream Man (1995) 7.8
+Drop Dead Fred (1991) 6.0
+Fatal Instinct (1993) 4.2
+Fried Green Tomatoes (1991) 7.7
+Last Dance (1996) 4.9
+Madonna: Truth or Dare (1991) 6.4
+My Own Private Idaho (1991) 7.1
+Night on Earth (1991) 7.8
+Robin Hood: Prince of Thieves (1991) 6.9
+Star Trek VI: The Undiscovered Country (1991) 7.2
+Terminator 2: Judgment Day (1991) 8.5
+To Cross the Rubicon (1991) 5.5
+Trust (1990) 7.3
+Highlander (1986) 7.2
+Alien 3 (1992) 6.5
+Amityville 1992: It's About Time (1992) 4.6
+Basic Instinct (1992) 7.0
+Batman Returns (1992) 7.0
+Bob Roberts (1992) 7.0
+Bram Stoker's Dracula (1992) 7.4
+Candyman (1992) 6.6
+Careful (1992) 7.0
+Cronos (1992) 6.7
+Glengarry Glen Ross (1992) 7.7
+Infinity (1996) 6.9
+Bitter Moon (1992) 7.2
+Passion Fish (1992) 7.4
+Red Rock West (1992) 7.0
+Reservoir Dogs (1992) 8.3
+Romper Stomper (1992) 6.8
+Strictly Ballroom (1992) 7.2
+Unforgiven (1992) 8.2
+Venice/Venice (1992) 6.0
+Vermont Is For Lovers (1992) 6.9
+Sirens (1994) 7.1
+Addams Family Values (1993) 6.8
+Amityville: A New Generation (1993) 3.8
+Amos & Andrew (1993) 5.7
+Another Stakeout (1993) 5.6
+Army of Darkness (1993) 7.5
+Farewell My Concubine (1993) 8.1
+Backbeat (1993) 6.6
+Being Human (1993) 5.5
+Benny & Joon (1993) 7.2
+Beyond Bedlam (1993) 3.3
+Body Snatchers (1993) 6.0
+Boxing Helena (1993) 4.8
+Carlito's Way (1993) 7.9
+Cliffhanger (1993) 6.4
+Coneheads (1993) 5.3
+Cool Runnings (1993) 7.0
+Dave (1993) 6.8
+Dazed and Confused (1993) 7.6
+Demolition Man (1993) 6.7
+Even Cowgirls Get the Blues (1993) 4.4
+Fear of a Black Hat (1993) 7.2
+Flesh and Bone (1993) 6.2
+Flirt (1995) 7.2
+Free Willy (1993) 6.0
+Germinal (1993) 7.1
+Geronimo: An American Legend (1993) 6.5
+Groundhog Day (1993) 8.0
+Guilty as Sin (1993) 5.6
+Hard Target (1993) 6.2
+Heaven & Earth (1993) 6.8
+Head Above Water (1996) 6.5
+Homeward Bound: The Incredible Journey (1993) 6.9
+Hot Shots! Part Deux (1993) 6.6
+In the Line of Fire (1993) 7.2
+In the Name of the Father (1993) 8.1
+Ciao, Professore! (1993) 6.9
+Judgment Night (1993) 6.7
+Jurassic Park (1993) 8.1
+Kalifornia (1993) 6.7
+King of the Hill (1993) 7.4
+Last Action Hero (1993) 6.4
+Life with Mikey (1993) 5.6
+Little Buddha (1993) 6.1
+M. Butterfly (1993) 6.8
+Manhattan Murder Mystery (1993) 7.4
+Celestial Clockwork (1994) 6.7
+Menace II Society (1993) 7.5
+Mr. Jones (1993) 5.8
+Mr. Wonderful (1993) 5.9
+Mrs. Doubtfire (1993) 7.0
+Naked (1993) 7.8
+Orlando (1993) 7.2
+Philadelphia (1993) 7.7
+Poetic Justice (1993) 6.1
+Rising Sun (1993) 6.3
+Robocop 3 (1993) 4.1
+Romeo Is Bleeding (1993) 6.6
+Ruby in Paradise (1993) 7.0
+Rudy (1993) 7.5
+Schindler's List (1993) 8.9
+Searching for Bobby Fischer (1993) 7.4
+Shadowlands (1993) 7.3
+Short Cuts (1993) 7.7
+Six Degrees of Separation (1993) 6.8
+Sleepless in Seattle (1993) 6.8
+Sliver (1993) 5.1
+So I Married an Axe Murderer (1993) 6.4
+Some Folks Call It a Sling Blade (1993) 7.6
+Son in Law (1993) 5.9
+Stalingrad (1993) 7.5
+Striking Distance (1993) 5.9
+Suture (1993) 6.6
+Tombstone (1993) 7.8
+Three Colors: Blue (1993) 7.9
+True Romance (1993) 7.9
+What's Eating Gilbert Grape (1993) 7.8
+What's Love Got to Do with It (1993) 7.3
+1-900 (1994) 6.2
+8 Seconds (1994) 6.6
+Above the Rim (1994) 6.6
+Ace Ventura: Pet Detective (1994) 6.9
+Airheads (1994) 6.1
+Amateur (1994) 6.9
+Andre (1994) 5.7
+Babyfever (1994) 5.5
+Barcelona (1994) 7.0
+Beverly Hills Cop III (1994) 5.6
+Blink (1994) 6.2
+Blue Chips (1994) 6.2
+Blue Sky (1994) 6.4
+Bottle Rocket (1996) 6.8
+Brother Minister: The Assassination of Malcolm X (1994) 7.3
+Bullets Over Broadway (1994) 7.4
+Cabin Boy (1994) 5.4
+Canadian Bacon (1994) 6.0
+Chasers (1994) 5.2
+Chungking Express (1994) 8.1
+City Slickers II: The Legend of Curly's Gold (1994) 5.6
+Clean Slate (1994) 5.7
+Clear and Present Danger (1994) 6.9
+Clerks (1994) 7.7
+Cobb (1994) 6.4
+Cops and Robbersons (1994) 5.2
+Corrina, Corrina (1994) 6.6
+Country Life (1994) 6.6
+Crooklyn (1994) 7.0
+Crumb (1994) 8.0
+Delta of Venus (1994) 4.7
+Disclosure (1994) 6.1
+Dolores Claiborne (1994) 7.4
+Double Happiness (1994) 7.0
+Drop Zone (1994) 5.6
+Ed Wood (1994) 7.8
+Exit to Eden (1994) 4.3
+Exotica (1994) 7.0
+Forrest Gump (1994) 8.8
+Four Weddings and a Funeral (1994) 7.1
+Mary Shelley's Frankenstein (1994) 6.4
+Fresh (1994) 7.6
+Getting Even with Dad (1994) 4.8
+Go Fish (1994) 5.6
+Heavyweights (1994) 6.7
+Hoop Dreams (1994) 8.3
+Hostile Intentions (1994) 3.9
+House Party 3 (1994) 4.7
+Houseguest (1994) 6.0
+I Like It Like That (1994) 6.9
+I'll Do Anything (1994) 5.5
+I.Q. (1994) 6.2
+Immortal Beloved (1994) 7.4
+In the Army Now (1994) 5.0
+Interview with the Vampire (1994) 7.5
+Jason's Lyric (1994) 6.6
+Jimmy Hollywood (1994) 5.3
+Junior (1994) 4.6
+Jupiter's Wife (1994) 7.2
+Killing Zoe (1994) 6.5
+Legends of the Fall (1994) 7.6
+Lightning Jack (1994) 5.6
+Little Big League (1994) 6.1
+Little Odessa (1994) 6.7
+Loaded (1994) 4.6
+Love and a .45 (1994) 6.1
+Major Payne (1994) 6.3
+Maya Lin: A Strong Clear Vision (1994) 7.3
+Milk Money (1994) 5.6
+Mrs. Parker and the Vicious Circle (1994) 6.4
+Muriel's Wedding (1994) 7.2
+Mute Witness (1994) 6.7
+Nadja (1994) 6.0
+Naked Gun 33 1/3: The Final Insult (1994) 6.5
+Naked in New York (1994) 5.6
+Natural Born Killers (1994) 7.3
+Nell (1994) 6.5
+Nina Takes a Lover (1994) 5.5
+North (1994) 4.5
+Of Love and Shadows (1994) 5.1
+Window to Paris (1994) 7.4
+Once Were Warriors (1994) 7.9
+Priest (1994) 7.0
+Princess Caraboo (1994) 6.0
+Pulp Fiction (1994) 8.9
+Quiz Show (1994) 7.5
+Radioland Murders (1994) 6.2
+Reality Bites (1994) 6.6
+Renaissance Man (1994) 6.2
+Richie Rich (1994) 5.4
+Robert A. Heinlein's The Puppet Masters (1994) 5.9
+Wild Reeds (1994) 7.4
+S.F.W. (1994) 5.8
+Safe Passage (1994) 6.3
+Serial Mom (1994) 6.8
+Shallow Grave (1994) 7.3
+Shopping (1994) 5.4
+Somebody to Love (1994) 5.4
+Spanking the Monkey (1994) 6.2
+Speechless (1994) 5.8
+Star Trek: Generations (1994) 6.6
+Stargate (1994) 7.1
+Surviving the Game (1994) 6.2
+Talking About Sex (1994) 6.2
+Terminal Velocity (1994) 5.5
+Timecop (1994) 5.9
+Tom & Viv (1994) 6.3
+Three Colors: Red (1994) 8.1
+True Lies (1994) 7.2
+Three Colors: White (1994) 7.6
+Burnt By the Sun (1994) 7.9
+Vanya on 42nd Street (1994) 7.4
+Wes Craven's New Nightmare (1994) 6.5
+What Happened Was... (1994) 7.2
+When a Man Loves a Woman (1994) 6.6
+White Man's Burden (1995) 5.4
+With Honors (1994) 6.7
+Wyatt Earp (1994) 6.7
+Eat Drink Man Woman (1994) 7.8
+Stephen King's The Langoliers (1995) 6.1
+Ace Ventura: When Nature Calls (1995) 6.4
+Across the Sea of Time (1995) 5.9
+Tom and Huck (1995) 5.5
+Angela (1995) 6.4
+Angels and Insects (1995) 6.8
+Angus (1995) 6.7
+Antonia's Line (1995) 7.4
+Apollo 13 (1995) 7.6
+Assassins (1995) 6.4
+Balto (1995) 7.1
+Batman Forever (1995) 5.4
+Before Sunrise (1995) 8.1
+Best of the Best 3: No Turning Back (1995) 4.9
+Billy Madison (1995) 6.4
+Bloodsport 2 (1995) 4.8
+Blue in the Face (1995) 6.7
+Boys on the Side (1995) 6.5
+Bushwhacked (1995) 5.6
+Candyman: Farewell to the Flesh (1995) 5.3
+Carrington (1995) 6.8
+Casper (1995) 6.1
+Castle Freak (1995) 6.0
+Catwalk (1995) 7.0
+Circle of Friends (1995) 6.6
+Clockers (1995) 6.9
+Clueless (1995) 6.8
+Coldblooded (1995) 6.7
+Congo (1995) 5.3
+Copycat (1995) 6.6
+The Courtyard (1995) 5.2
+Crimson Tide (1995) 7.3
+Cry, the Beloved Country (1995) 6.8
+Cutthroat Island (1995) 5.7
+Cyclo (1995) 7.3
+Dadetown (1995) 6.9
+Dangerous Minds (1995) 6.6
+Dead Man (1995) 7.6
+Dead Presidents (1995) 6.9
+Denise Calls Up (1995) 6.6
+Desert Winds (1995) 5.6
+Destiny Turns on the Radio (1995) 4.6
+Devil in a Blue Dress (1995) 6.7
+Don Juan DeMarco (1995) 6.7
+Dracula: Dead and Loving It (1995) 5.9
+Drunks (1995) 6.3
+Duoluo tianshi (1995) 7.7
+Far From Home: The Adventures of Yellow Dog (1995) 6.4
+Farmer & Chase (1995) 5.0
+Father of the Bride Part II (1995) 6.1
+Feast of July (1995) 6.1
+Firestorm (1998) 3.3
+First Knight (1995) 6.0
+Fluke (1995) 6.7
+Forget Paris (1995) 6.5
+Four Rooms (1995) 6.8
+Free Willy 2: The Adventure Home (1995) 5.1
+Friday (1995) 7.3
+Frisk (1995) 5.0
+Get Shorty (1995) 6.9
+Girl in the Cadillac (1995) 5.9
+Gold Diggers: The Secret of Bear Mountain (1995) 6.0
+GoldenEye (1995) 7.2
+Gordy (1995) 3.8
+Grumpier Old Men (1995) 6.7
+Gumby: The Movie (1995) 6.3
+Hackers (1995) 6.3
+Halloween: The Curse of Michael Myers (1995) 4.8
+Heavy (1995) 6.8
+Higher Learning (1995) 6.5
+Homage (1995) 5.7
+Rumble in the Bronx (1995) 6.8
+How to Make an American Quilt (1995) 6.3
+In the Mouth of Madness (1995) 7.2
+It's My Party (1995) 7.2
+Jade (1995) 5.3
+Jefferson in Paris (1995) 5.8
+Jeffrey (1995) 6.8
+Johnny Mnemonic (1995) 5.7
+Judge Dredd (1995) 5.6
+Jumanji (1995) 7.0
+Jury Duty (1995) 4.4
+Just Cause (1995) 6.4
+Kicking and Screaming (1995) 6.8
+Killer: A Journal of Murder (1995) 6.3
+Last Summer in the Hamptons (1995) 5.6
+Leaving Las Vegas (1995) 7.5
+Live Nude Girls (1995) 5.2
+Living in Oblivion (1995) 7.5
+Loch Ness (1995) 5.5
+Lord of Illusions (1995) 6.1
+Losing Isaiah (1995) 6.5
+Lotto Land (1995) 6.7
+Mallrats (1995) 7.1
+Man of the House (1995) 5.2
+Man of the Year (1995) 5.8
+Margaret's Museum (1995) 7.1
+Miami Rhapsody (1995) 5.3
+Mighty Aphrodite (1995) 7.0
+Mighty Morphin Power Rangers: The Movie (1995) 5.2
+Money Train (1995) 5.7
+Moonlight and Valentino (1995) 5.7
+Mortal Kombat (1995) 5.8
+Mr. Holland's Opus (1995) 7.3
+Murder in the First (1995) 7.3
+My Family (1995) 7.3
+National Lampoon's Senior Trip (1995) 5.8
+Nelly & Monsieur Arnaud (1995) 7.3
+Nemesis 2: Nebula (1995) 3.9
+New Jersey Drive (1995) 6.7
+Nick of Time (1995) 6.3
+Nine Months (1995) 5.5
+Nixon (1995) 7.1
+Now and Then (1995) 6.8
+Once Upon a Time... When We Were Colored (1995) 7.1
+Operation Dumbo Drop (1995) 5.1
+Panther (1995) 6.5
+Paris Was a Woman (1995) 7.4
+Pharaoh's Army (1995) 6.7
+Picture Bride (1995) 6.6
+Picture Perfect (1997) 7.4
+Pocahontas (1995) 6.7
+Poison Ivy II (1995) 4.5
+Power 98 (1995) 4.6
+Rent-a-Kid (1995) 5.5
+Restoration (1995) 6.6
+Rob Roy (1995) 6.9
+Rough Magic (1995) 5.5
+Safe (1995) 7.2
+Showgirls (1995) 4.9
+Sleepover (1995) 5.2
+Something to Talk About (1995) 5.7
+Species (1995) 5.8
+Stonewall (1995) 6.8
+Strange Days (1995) 7.2
+Stuart Saves His Family (1995) 5.2
+Sweet Nothing (1995) 5.9
+Swimming with Sharks (1995) 7.1
+Tales From the Crypt Presents: Demon Knight (1995) 6.7
+Tales from the Hood (1995) 6.4
+Tank Girl (1995) 5.4
+Theodore Rex (1995) 2.4
+Things to Do in Denver when You're Dead (1995) 6.8
+Three Wishes (1995) 6.1
+Tommy Boy (1995) 7.1
+Total Eclipse (1995) 6.6
+Tough and Deadly (1995) 5.9
+Toy Story (1995) 8.3
+True Crime (1995) 5.4
+Twelve Monkeys (1995) 8.0
+Under Siege 2: Dark Territory (1995) 5.5
+Unstrung Heroes (1995) 6.7
+Unzipped (1995) 6.5
+Vampire in Brooklyn (1995) 4.6
+Village of the Damned (1995) 5.7
+Virtuosity (1995) 5.6
+Waiting to Exhale (1995) 5.9
+Waterworld (1995) 6.2
+Welcome to the Dollhouse (1995) 7.4
+When Night Is Falling (1995) 6.5
+While You Were Sleeping (1995) 6.7
+Wild Bill (1995) 5.9
+Wings of Courage (1995) 6.4
+2 Days in the Valley (1996) 6.5
+Aladdin and the King of Thieves (1996) 6.4
+Albino Alligator (1996) 6.1
+All Dogs Go to Heaven 2 (1996) 5.5
+American Buffalo (1996) 5.8
+American Strays (1996) 5.2
+Bad Moon (1996) 5.9
+Basquiat (1996) 6.9
+Bastard Out of Carolina (1996) 7.4
+Beautiful Thing (1996) 7.5
+Beavis and Butt-head Do America (1996) 6.8
+Big Bully (1996) 4.7
+Big Night (1996) 7.3
+Bio-Dome (1996) 4.5
+Bogus (1996) 5.4
+Bound (1996) 7.3
+Boys (1996) 5.0
+Breaking the Waves (1996) 7.8
+Broken English (1996) 6.2
+Carried Away (1996) 6.2
+Celtic Pride (1996) 5.3
+Children of the Corn: The Gathering (1996) 4.2
+Children of the Revolution (1996) 6.3
+Citizen Ruth (1996) 7.0
+Commandments (1997) 5.5
+Cosi (1996) 6.6
+Courage Under Fire (1996) 6.6
+D3: The Mighty Ducks (1996) 5.5
+Daylight (1996) 5.9
+Dear God (1996) 5.5
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996) 6.6
+Dragonheart (1996) 6.5
+Dunston Checks In (1996) 5.4
+Ed (1996) 2.7
+Ed's Next Move (1996) 6.2
+Eddie (1996) 5.2
+Entertaining Angels: The Dorothy Day Story (1996) 6.2
+Eraser (1996) 6.1
+Escape from L.A. (1996) 5.8
+Everyone Says I Love You (1996) 6.7
+Evita (1996) 6.3
+Executive Decision (1996) 6.4
+Extreme Measures (1996) 6.2
+Eye for an Eye (1996) 6.2
+Feeling Minnesota (1996) 5.4
+Female Perversions (1996) 5.4
+First Kid (1996) 5.3
+Fled (1996) 5.4
+Flirting With Disaster (1996) 6.7
+For Ever Mozart (1996) 6.3
+From Dusk Till Dawn (1996) 7.2
+Get on the Bus (1996) 6.8
+Ghosts of Mississippi (1996) 6.7
+Girl 6 (1996) 5.2
+Grace of My Heart (1996) 6.7
+Happy Gilmore (1996) 7.0
+Harriet the Spy (1996) 5.9
+Heaven's Prisoners (1996) 5.8
+Hellraiser: Bloodline (1996) 5.2
+High School High (1996) 5.6
+Homeward Bound II: Lost in San Francisco (1996) 6.0
+House Arrest (1996) 5.9
+I Shot Andy Warhol (1996) 6.6
+I'm Not Rappaport (1996) 6.5
+If Lucy Fell (1996) 4.9
+Jack (1996) 5.8
+James and the Giant Peach (1996) 6.7
+Jerry Maguire (1996) 7.3
+Jackie Chan's First Strike (1996) 6.6
+Jingle All the Way (1996) 5.6
+Joe's Apartment (1996) 5.5
+Johns (1996) 6.4
+Jude (1996) 6.9
+Kama Sutra: A Tale of Love (1996) 6.0
+Kansas City (1996) 6.4
+Kazaam (1996) 3.0
+Keys to Tulsa (1997) 5.2
+Kingpin (1996) 6.9
+Kolya (1996) 7.8
+Last Man Standing (1996) 6.4
+Late Bloomers (1996) 5.9
+Lawnmower Man 2: Beyond Cyberspace (1996) 2.5
+Looking for Richard (1996) 7.3
+Losing Chase (1996) 6.6
+Lost Highway (1997) 7.6
+Love Is All There Is (1996) 5.1
+Lover's Knot (1996) 4.7
+MURDER and murder (1996) 6.9
+Mad Dog Time (1996) 5.5
+Manny & Lo (1996) 6.5
+Mars Attacks! (1996) 6.3
+Marvin's Room (1996) 6.7
+Mary Reilly (1996) 5.8
+Maximum Risk (1996) 5.5
+Michael Collins (1996) 7.2
+Moll Flanders (1996) 6.5
+Mother Night (1996) 7.1
+Mr. Wrong (1996) 3.9
+Mrs. Winterbourne (1996) 6.2
+Mulholland Falls (1996) 6.3
+Multiplicity (1996) 6.1
+Muppet Treasure Island (1996) 7.0
+My Fellow Americans (1996) 6.5
+Mystery Science Theater 3000: The Movie (1996) 7.3
+New York Cop (1996) 4.2
+One Fine Day (1996) 6.5
+Original Gangstas (1996) 5.7
+Palookaville (1996) 6.5
+Paradise Lost: The Child Murders at Robin Hood Hills (1996) 8.3
+Phat Beach (1996) 4.0
+Phenomenon (1996) 6.4
+Ponette (1996) 7.5
+Primal Fear (1996) 7.7
+Race the Sun (1996) 5.4
+Ripe (1996) 4.6
+Daniel Defoe's Robinson Crusoe (1996) 6.0
+Santa with Muscles (1996) 2.6
+Schizopolis (1996) 6.9
+Secrets & Lies (1996) 8.0
+Set It Off (1996) 6.9
+Sgt. Bilko (1996) 5.9
+Shall We Dance? (1937) 7.6
+She's the One (1996) 6.0
+Sleepers (1996) 7.6
+Sling Blade (1996) 8.0
+Space Jam (1996) 6.4
+Spy Hard (1996) 5.4
+Squeeze (1996) 6.1
+Star Trek: First Contact (1996) 7.6
+Striptease (1996) 4.5
+Sudden Manhattan (1996) 6.2
+Sunset Park (1996) 6.0
+Surviving Picasso (1996) 6.4
+Swingers (1996) 7.2
+Tales from the Crypt Presents: Bordello of Blood (1996) 5.4
+That Thing You Do! (1996) 6.9
+Thinner (1996) 5.8
+Tin Cup (1996) 6.4
+To Gillian on Her 37th Birthday (1996) 5.7
+Trainspotting (1996) 8.1
+Trees Lounge (1996) 7.1
+Three Lives and Only One Death (1996) 6.9
+Twelfth Night (1996) 7.2
+Two Much (1996) 5.4
+Unforgettable (1996) 6.0
+Waiting for Guffman (1996) 7.5
+Walking and Talking (1996) 6.7
+Wedding Bell Blues (1996) 5.1
+When We Were Kings (1996) 8.0
+White Squall (1996) 6.6
+'Til There Was You (1997) 4.9
+187 (1997) 6.7
+3 Ninjas: High Noon At Mega Mountain (1998) 2.9
+8 Heads in a Duffel Bag (1997) 5.4
+Absolute Power (1997) 6.7
+Addicted to Love (1997) 6.1
+Afterglow (1997) 6.1
+Air Bud (1997) 5.2
+Air Force One (1997) 6.5
+Alien: Resurrection (1997) 6.2
+Amistad (1997) 7.3
+Anaconda (1997) 4.8
+Apt Pupil (1998) 6.7
+Austin Powers: International Man of Mystery (1997) 7.0
+Ayn Rand: A Sense of Life (1997) 6.5
+B*A*P*S (1997) 4.7
+Batman & Robin (1997) 3.8
+Bent (1997) 7.2
+Best Men (1997) 5.6
+Beverly Hills Ninja (1997) 5.6
+Blues Brothers 2000 (1998) 4.9
+Boogie Nights (1997) 7.9
+Booty Call (1997) 5.4
+Buddy (1997) 4.9
+Career Girls (1997) 7.1
+Cats Don't Dance (1997) 6.9
+Chairman of the Board (1998) 2.3
+                       In the Company of Men (1997) 7.2Inventing the Abbotts (1997) 6.4Jackie Brown (1997) 7.5Kicked in the Head (1997) 4.2Kiss Me, Guido (1997) 6.1Kiss the Girls (1997) 6.6Kull the Conqueror (1997) 4.9Kundun (1997) 7.0L.A. Confidential (1997) 8.2Deceiver (1997) 6.6Liar Liar (1997) 6.9Little City (1998) 5.8Love Jones (1997) 7.5Love and Death on Long Island (1997) 6.9Love! Valour! Compassion! (1997) 7.0Mad City (1997) 6.3Meet Wally Sparks (1997) 5.4Metro (1997) 5.5Midnight in the Garden of Good and Evil (1997) 6.6Mimic (1997) 6.0Mortal Kombat: Annihilation (1997) 3.7Mr. Magoo (1997) 4.0Murder at 1600 (1997) 6.1My Best Friend's Wedding (1997) 6.3Niagara, Niagara (1997) 7.1Night Falls on Manhattan (1997) 6.6Nightwatch (1997) 6.2Nil By Mouth (1997) 7.3Nothing to Lose (1994) 6.7Nowhere (1997) 6.5Four Days in September (1997) 7.4Office Killer (1997) 5.1As Good As It Gets (1997) 7.7Other Voices, Other Rooms (1997) 6.3Out to Sea (1997) 6.1Playing God (1997) 5.6Prefontaine (1997) 6.8Primary Colors (1998) 6.6Red Corner (1997) 6.3Rhyme & Reason (1997) 7.5Rocket Man (1997) 5.9Romy and Michele's High School Reunion (1997) 6.2Rosewood (1997) 7.2Scream 2 (1997) 6.2Selena (1997) 6.8Seven Years in Tibet (1997) 7.1Shadow Conspiracy (1997) 4.9Shiloh (1997) 6.4Sliding Doors (1998) 6.7Smilla's Sense of Snow (1997) 6.4Soul Food (1997) 7.1Spawn (1997) 5.3Speed 2: Cruise Control (1997) 3.9Sphere (1998) 6.1Spice World (1997) 3.5Sprung (1997) 5.0Stag (1997) 5.7Star Maps (1997) 5.6Starship Troopers (1997) 7.2Swept from the Sea (1997) 6.8Telling Lies in America (1997) 6.2That Old Feeling (1997) 6.2Tomorrow Never Dies (1997) 6.5Touch (1997) 5.6Traveller (1997) 6.1Truth or Consequences, N.M. (1997) 6.3Turbo: A Power Rangers Movie (1997) 3.7Turbulence (1997) 4.9U Turn (1997) 6.8Ulee's Gold (1997) 7.0Vegas Vacation (1997) 6.0Star Kid (1997) 5.3Warriors of Virtue (1997) 4.8Welcome To Sarajevo (1997) 6.8Wild America (1997) 6.4Wishmaster (1997) 5.8Year of the Horse (1997) 6.7Zeus and Roxanne (1997) 5.3B. Monkey (1998) 5.9Everest (1998) 7.0Half Baked (1998) 6.7Lost in Space (1998) 5.2Mercury Rising (1998) 6.2Senseless (1998) 6.1Vermin (1998) 6.0Wag the Dog (1997) 7.2Time Tracers (1995) 4.6Legal Deceit (1997) 3.5Wild Things (1998) 6.0Georgia (1995) 6.5Star Wars (1977) 8.1
