@@ -170,6 +170,12 @@ Now rank the same 1682 movies according to [today's IMDB data](https://www.imdb.
 
 Put a file with the full list in your repo.  List the top 10 and bottom 10 movies in your report.
 
+![Top 10 and bottom 10 movies](./q6.png)
+
+The code for question 6 is [q6.ipynb](./q6.ipynb)
+
+To complete this question. I downloaded the title and rating file from [today's IMDB data](https://www.imdb.com/interfaces/). I then iterate through the title file and a list of movie titles that were created from the U.item file until I found a match. I then copied the title and title id to a dictionary. With this dictionary, I iterate through the rating file when I find a match with the title id from the dictionary I wrote the full list with title and rating to the [myOutFile.txt](./myOutFile.txt). The IMDB data files are extremely large and it took a long time to search through them. I had to abort the program while reading through the IMDB titles file, due to lack of time. Doing this I was only able to collect ratings for 1094 of the movies. 
+
 ### Q7
 *(Extra credit, 1 point)*
 
